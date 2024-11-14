@@ -1,3 +1,4 @@
 [submodule "codigo fuente"]
 	path = codigo fuente
 	url = git@github.com:Jkierem/micro-tracker.git
+	branch = main
